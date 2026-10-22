@@ -87,7 +87,7 @@ const TutorialsList: React.FC = () => {
         </div>
       </div>
       <div className="col-md-6">
-        <h4>Tutorials List 2026_10_22</h4>
+        <h4>Tutorials List 2026_10_23</h4>
 
 
 
